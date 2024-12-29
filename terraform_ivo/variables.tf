@@ -37,7 +37,7 @@ variable "aws_iam_role_policy" {
 }
 
 
-################# VPC Variables ############################################################
+####### VPC Variables 
 variable "region" {
   type = string
   description = "Define the aws region"
